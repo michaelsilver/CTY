@@ -1,0 +1,4 @@
+D:\MichaelSilver\C++\MilePerGallonIterative\MilePerGallonIterative\bin\Debug\MilePerGallonIterative.exe.config
+D:\MichaelSilver\C++\MilePerGallonIterative\MilePerGallonIterative\obj\Debug\MilePerGallonIterative.Form1.resources
+D:\MichaelSilver\C++\MilePerGallonIterative\MilePerGallonIterative\obj\Debug\MilePerGallonIterative.Resources.resources
+D:\MichaelSilver\C++\MilePerGallonIterative\MilePerGallonIterative\obj\Debug\MilePerGallonIterative.vbproj.GenerateResource.Cache

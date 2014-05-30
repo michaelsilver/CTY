@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LaunchNotepad2", "LaunchNotepad2\LaunchNotepad2.vcxproj", "{D885BCD7-1768-4C9C-B332-C65C5068FFF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D885BCD7-1768-4C9C-B332-C65C5068FFF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D885BCD7-1768-4C9C-B332-C65C5068FFF4}.Debug|Win32.Build.0 = Debug|Win32
+		{D885BCD7-1768-4C9C-B332-C65C5068FFF4}.Release|Win32.ActiveCfg = Release|Win32
+		{D885BCD7-1768-4C9C-B332-C65C5068FFF4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

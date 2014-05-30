@@ -1,0 +1,13 @@
+hero(spy).
+heroine(interpreter).
+scene(berlin) :- hero(spy).
+scene(paris) :- hero(spy).
+hero(speaks_french) :- scene(paris).
+heroine(speaks_english) :- heroine(interpreter).
+heroine(speaks_russian) :- heroine(interpreter).
+no(car_chase) :- scene(berlin).
+no(crash_scene) :- no(car_chase).
+
+
+
+

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoWhile2", "DoWhile2\DoWhile2.vcxproj", "{47FF8684-0C93-4934-8225-AAECB2A25E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FF8684-0C93-4934-8225-AAECB2A25E7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47FF8684-0C93-4934-8225-AAECB2A25E7B}.Debug|Win32.Build.0 = Debug|Win32
+		{47FF8684-0C93-4934-8225-AAECB2A25E7B}.Release|Win32.ActiveCfg = Release|Win32
+		{47FF8684-0C93-4934-8225-AAECB2A25E7B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

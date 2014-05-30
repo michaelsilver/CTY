@@ -1,0 +1,22 @@
+﻿Build started 8/2/2013 11:22:48 AM.
+     1>Project "D:\MichaelSilver\TicTacToeFinal\TicTacToeFinal\TicTacToeFinal.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TicTacToeFinal.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TicTacToeFinal.cpp
+         TicTacToeFinal.cpp
+     1>d:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(203): error C2872: 'rank' : ambiguous symbol
+                 could be 'd:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(38) : int rank[9]'
+                 or       'c:\program files (x86)\microsoft visual studio 11.0\vc\include\type_traits(1564) : std::rank'
+     1>d:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(212): error C2872: 'rank' : ambiguous symbol
+                 could be 'd:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(38) : int rank[9]'
+                 or       'c:\program files (x86)\microsoft visual studio 11.0\vc\include\type_traits(1564) : std::rank'
+     1>d:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(220): error C2872: 'rank' : ambiguous symbol
+                 could be 'd:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(38) : int rank[9]'
+                 or       'c:\program files (x86)\microsoft visual studio 11.0\vc\include\type_traits(1564) : std::rank'
+     1>d:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(221): error C2872: 'rank' : ambiguous symbol
+                 could be 'd:\michaelsilver\tictactoefinal\tictactoefinal\tictactoefinal.cpp(38) : int rank[9]'
+                 or       'c:\program files (x86)\microsoft visual studio 11.0\vc\include\type_traits(1564) : std::rank'
+     1>Done Building Project "D:\MichaelSilver\TicTacToeFinal\TicTacToeFinal\TicTacToeFinal.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32

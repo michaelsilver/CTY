@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriangleAndFlyingTIme", "TriangleAndFlyingTIme\TriangleAndFlyingTIme.vcxproj", "{717CC86A-8656-4D9E-AEB0-ACAFE4E19537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717CC86A-8656-4D9E-AEB0-ACAFE4E19537}.Debug|Win32.ActiveCfg = Debug|Win32
+		{717CC86A-8656-4D9E-AEB0-ACAFE4E19537}.Debug|Win32.Build.0 = Debug|Win32
+		{717CC86A-8656-4D9E-AEB0-ACAFE4E19537}.Release|Win32.ActiveCfg = Release|Win32
+		{717CC86A-8656-4D9E-AEB0-ACAFE4E19537}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
